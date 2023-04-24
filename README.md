@@ -1,6 +1,8 @@
-# NDB_Homework
+# Data Center Topologies
 
-In this homework we at first analize some algorithm to check the connnectivity of a given graph and explore some properties of this argument.
+> The aim of this homwork was focus on different types of network topologies and explore some properties of them.
+
+In this homework we at first analize some algorithm to check the connnectivity of a given graph. We consider two different random graph: `r-regular random` and `Erdős–Rényi`.
 
 Subsequently the goal was to compare a `Fat-tree` topology with a `Jellyfish` one, comparing their properties about the **Mean Response Time** and the **Job Running Cost** when the computational job is splitted among different servers in the network.
 
